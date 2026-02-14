@@ -1,8 +1,6 @@
 # ProtoTriplet: Cross-Receiver Few-Shot Specific Emitter Identification
 
-***This repository is currently under double-blind peer review. For the integrity of the process, please do not disclose author identity.***
-
-This repository contains the official implementation of the **ProtoTriplet** method for Specific Emitter Identification (SEI) in cross-receiver and few-shot scenarios.
+***This repository provides the official implementation for the paper "ProtoTriplet: Cross-Receiver Few-Shot Specific Emitter Identification via Prototype-Level Contrastive Adaptation". The code is currently provided for peer-review purposes to ensure reproducibility.***
 
 ## 📌 Overview
 
